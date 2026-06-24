@@ -1,14 +1,14 @@
 ---
-title: "Hierarchical Detection of Malicious Command Lines Using Random Forest and Context-Aware LSTM"
+title: "**Hierarchical Detection of Malicious Command Lines Using Random Forest and Context-Aware LSTM**"
 collection: publications
 permalink: /publication/2026-hierarchical-malicious-command-lines
 date: 2026-05-01
 venue: "Cyber Science 2026"
 status: "Accepted"
-excerpt: "**[Accepted — to appear, Cyber Science 2026]** Yixian Jiang and Qinzheng Hu (equal contribution), with Pavandeep Singh Baxi. A hierarchical framework combining feature-based machine learning with sequence-aware LSTM modeling — Random Forest is strongest for single-command detection, while RF+LSTM is best for command-stream (multi-step) detection."
+excerpt: "A hierarchical framework combining machine learning with sequence-aware LSTM modeling — Random Forest is strongest for single command detection, while RF+LSTM is best for command stream detection."
 paperurl: "/files/jiang2026-hierarchical-command-detection.pdf"
 codeurl: ""
-citation: 'Yixian Jiang, Qinzheng Hu, Pavandeep Singh Baxi. "Hierarchical Detection of Malicious Command Lines Using Random Forest and Context-Aware LSTM." Cyber Science 2026. (Yixian Jiang and Qinzheng Hu contributed equally.)'
+citation: 'Yixian Jiang, Qinzheng Hu, Pavandeep Singh Baxi. "Hierarchical Detection of Malicious Command Lines Using Random Forest and Context-Aware LSTM." Cyber Science 2026.'
 ---
 
 **Yixian Jiang**, Qinzheng Hu, Pavandeep Singh Baxi — School of Computing Science, University of Glasgow.

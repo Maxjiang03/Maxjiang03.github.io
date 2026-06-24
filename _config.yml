@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yixian Jiang (蒋毅贤)"
+title                    : "Yixian Jiang"
 title_separator          : "-"
-name                     : &name "Yixian Jiang (蒋毅贤)"
-description              : &description "Yixian Jiang (蒋毅贤): MSc Cybersecurity at the University of Glasgow — research on secure and trustworthy agentic AI systems, LLM security, AI-enabled cyber defence, and IoT/ICS security."   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Yixian Jiang"
+description              : &description "Yixian Jiang: MSc Cybersecurity at the University of Glasgow — research on secure and trustworthy agentic AI systems, LLM security, AI-enabled cyber defence, and IoT/ICS security."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Maxjiang03.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "Maxjiang03/Maxjiang03.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yixian Jiang (蒋毅贤)"
+  name             : "Yixian Jiang"
   pronouns         : # example: "she/her"  
   bio              : "MSc Cybersecurity @ University of Glasgow. Security &amp; trustworthy AI."
   location         : "Glasgow, UK"
   employer         :
   uri              : # URL
-  email            :  # TODO: set a public personal/academic email — NOT the matric-bearing student address 
+  email            : "maxjiang03@163.com"
 
   # Academic websites
   academia         : # URL
