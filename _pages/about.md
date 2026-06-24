@@ -22,11 +22,5 @@ Currently, I am working and exploring the Identity and Privilege
 Abuse in the Agentic AI communication protocols, [the top-3 threat](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) for Agentic AI.
 
 
-See my [publications](/publications/), [projects](/projects/), and [CV](/cv/), or feel free to
+See my [publications](/publications/), [projects](/projects/), and [CV](/files/Yixian_Jiang_CV.pdf), or feel free to
 [get in touch](/contact/).
-
-<h1 class="page__title" id="misc">Misc</h1>
-
-![Playing table tennis](/images/mmexport1774894877072.jpg)
-
-I love playing piano, hiking and all kinds of sports.
