@@ -8,7 +8,7 @@
 
 ## 1. Project Overview & Goals
 
-Personal academic homepage for **Yixian Jiang (蒋毅贤)**, built to support **PhD applications,
+Personal academic homepage for **Yixian Jiang**, built to support **PhD applications,
 faculty outreach (cold emails), and scholarly-identity presentation**. This is a *content site*, not
 a frontend showcase - clarity, accuracy, and information density matter more than visual novelty.
 
@@ -306,7 +306,7 @@ Work top to bottom; each item is a small, separately committable step.
 > Authoritative for v1. Mark anything unverifiable as `TODO` rather than guessing.
 
 **Identity**
-- Name (display): **Yixian Jiang (蒋毅贤)**
+- Name (display): **Yixian Jiang**
 - Current: MSc Cybersecurity, **University of Glasgow**, School of Computing Science
   (Sept 2025 - Sept 2026, expected).
 - Research Assistant, **State Key Laboratory of Complex and Critical Software Environments
