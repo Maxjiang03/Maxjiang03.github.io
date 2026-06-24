@@ -18,8 +18,8 @@ My work sits at the intersection of **Cybersecurity** and **AI**. I am broadly i
 - **AI for IDS**
 - **IoT Security**
 
-Currently, I am working and exploring the Identity and Privilege 
-Abuse in the Agentic AI communication protocols, [the top-3 threat](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) for Agentic AI.
+Currently, I am working on the Identity and Privilege 
+Abuse in the Agentic AI communication protocols, [the top-3 threat](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) for the  Agentic AI.
 
 
 See my [publications](/publications/), [projects](/projects/), and [CV](/files/Yixian_Jiang_CV.pdf), or feel free to
