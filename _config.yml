@@ -167,6 +167,8 @@ include:
   - files
 exclude:
   - CLAUDE.md
+  - README.md
+  - docker-compose.yaml
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
